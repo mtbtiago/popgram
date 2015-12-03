@@ -1,0 +1,25 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
+
+body {
+	background: #cc1b22;
+	text-align: center;
+	font-size: 5em;
+	color: #000;
+	margin-top: 10%;
+	font-family: 'Open Sans';
+	font-weight: 300;
+	min-width: 580px;
+}
+
+body span {
+	color: #fff;
+}
+
+p {
+	color: #fff;
+	font-size: 0.4em;
+}
+
+p span {
+	color: #000;
+}
